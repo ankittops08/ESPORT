@@ -42,7 +42,7 @@
                     android:id="@+id/username"
                     android:background="@drawable/round_1"
                     android:drawablePadding="8dp"
-                    android:hint="Username"
+                    android:hint="name"
                     android:padding="8dp"
                     android:textColor="@color/black"
                     android:textColorHighlight="@color/cardview_dark_background"
